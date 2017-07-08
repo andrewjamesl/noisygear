@@ -15,6 +15,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+gem 'bootstrap-sass'
+gem 'spree', '~> 3.3.0.rc1'
+gem 'spree_auth_devise', '~> 3.3.0.rc1'
+gem 'spree_gateway', '~> 3.3.0.rc1'
 
 
 group :production do
